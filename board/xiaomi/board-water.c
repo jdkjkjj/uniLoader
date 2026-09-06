@@ -13,7 +13,7 @@ static struct video_info water_fb = {
 	.width = 736,
 	.height = 1600,
 	.stride = 4,
-	.scale = 2,
+	.scale = 1,
 	.address = (void *)0x7ba50000
 };
 
