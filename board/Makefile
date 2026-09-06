@@ -46,6 +46,7 @@ lib-$(CONFIG_TECNO_LI7) += tecno/board-li7.o
 lib-$(CONFIG_VOLLA_ALGIZ) += volla/board-algiz.o
 lib-$(CONFIG_XIAOMI_BEGONIA) += xiaomi/board-begonia.o
 lib-$(CONFIG_XIAOMI_BLOSSOM) += xiaomi/board-blossom.o
+lib-$(CONFIG_XIAOMI_WATER) += xiaomi/board-water.o
 lib-$(CONFIG_XIAOMI_CAMELLIA) += xiaomi/board-camellia.o
 lib-$(CONFIG_XIAOMI_GINKGO) += xiaomi/board-ginkgo.o
 lib-$(CONFIG_XIAOMI_MOON) += xiaomi/board-moon.o
